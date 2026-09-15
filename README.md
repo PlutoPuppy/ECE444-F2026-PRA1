@@ -14,3 +14,12 @@
 
 <img width="1477" height="858" alt="Screenshot 2026-09-14 at 10 03 52 PM" src="https://github.com/user-attachments/assets/5804198e-c791-4bdf-935b-6c5e44bdb405" />
 
+
+# Screenshots of command used for rebase
+
+<img width="612" height="162" alt="Screenshot 2026-09-14 at 10 14 13 PM" src="https://github.com/user-attachments/assets/eb88cff5-50e8-41f2-a697-a7ad46e8b530" />
+
+<img width="578" height="233" alt="Screenshot 2026-09-14 at 10 14 32 PM" src="https://github.com/user-attachments/assets/29995e08-297c-4b0c-8da1-e97f5be83d38" />
+
+
+
